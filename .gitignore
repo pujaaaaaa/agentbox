@@ -1,0 +1,9 @@
+# Ignore local database logs
+agentbox_logs.db
+
+# Ignore Python cache folders
+__pycache__/
+*.pyc
+
+# Ignore test files with private API keys
+smol_test.py
