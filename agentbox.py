@@ -1,6 +1,6 @@
 """
 AgentBox - The Local-First AI Flight Recorder
-Zero Dependencies. 100% Local SQLite. Include Token & Financial Tracking.
+Zero Dependencies. 100% Local SQLite. Include Token & Financial Tracking
 """
 
 import os
