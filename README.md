@@ -17,3 +17,8 @@ from agentbox import record_agent
 def run_ai():
     # Your agent code here
     return response
+
+
+### 📊 Advanced Analytics Included
+* **Token Auditing:** Automatically harvests raw input/output token metrics from active frameworks.
+* **Financial Cost Indexing:** Generates real-time financial run cost estimations down to fractional US dollars so you can audit cloud spend locally.
